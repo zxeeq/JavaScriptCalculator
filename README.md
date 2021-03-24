@@ -1,3 +1,3 @@
 # **JavaScriptCalculator**
 
-**Web calculator maked by me in javascript enjoy!**
+**🔢・Web calculator maked by me in javascript enjoy!**
